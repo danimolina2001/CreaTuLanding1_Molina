@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #fce5c4;
+    color: rgb(71, 36, 1);
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .nav-links a {
+    color: rgb(71, 36, 1);
+    text-decoration: none;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    max-height: 70px;
+    margin-right: 10px;
+  }
+
+  .brand-name {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  
